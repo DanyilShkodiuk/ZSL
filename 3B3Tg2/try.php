@@ -9,8 +9,8 @@
     //"$"-переменнная
     $name = 'Jan';
     $surename = 'Nowak';
+    //'' для текста 
     echo 'Imię: $name<br>';
-    //'' для текста
     echo 'Nazwisko: $surename<br>';
     // "" для переменных
     echo "Imię: $name<br>";
